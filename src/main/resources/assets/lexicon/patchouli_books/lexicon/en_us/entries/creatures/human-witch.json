@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "> $(n)Health:$() 26  $(br)> $(n)Attack Damage:$() 6, Poison $(br)> $(n)Behavior:$() Hostile     $(br)> $(n)Spawn:$() Overworld at light level 0, $(l:world/structures#hut)Witch Huts$(), Raids, when a $(l:creature/human-villager)$(thing)Villager$() is striked by a lightning bolt $(br)> $(n)Properties:$() $(br)$(thing)Witches$() are 85% resistant to some magical damage sources. $(br)They can trow $(l:brewing/potion_types#splash_potion)$(item)Splash Potions$() to to negatively enchant the opponent. $(br)They can heal themself."
+      "text": "> $(n)Health:$() 26  $(br)> $(n)Attack Damage:$() 6, Poison $(br)> $(n)Behavior:$() Hostile     $(br)> $(n)Spawn:$() Overworld at light level 0, $(l:world/structures#hut)Witch Huts$(), Raids, when a $(l:creature/human-villager)$(thing)Villager$() is struck by a lightning bolt $(br)> $(n)Properties:$() $(br)$(thing)Witches$() are 85% resistant to some magical damage sources. $(br)They can trow $(l:brewing/potion_types#splash_potion)$(item)Splash Potions$() to negatively enchant the opponent. $(br)They can heal themself."
     },
     {
       "type": "patchouli:entity",
