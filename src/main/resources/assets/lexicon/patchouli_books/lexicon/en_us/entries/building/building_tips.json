@@ -34,7 +34,7 @@
     {
       "type": "patchouli:text",
       "title": "Overdetailing",
-      "text": "$(n)Tip #3:$() $(br)$(li)Don't overdetailing your builds! $(br2)In most cases too many details seem too overloaded."
+      "text": "$(n)Tip #3:$() $(br)$(li)Don't overdetail your builds! $(br2)In most cases too many details seems excessive."
     },
     {
       "type": "patchouli:image",
