@@ -21,7 +21,7 @@
     {
       "type": "patchouli:text",
       "title": "Attack Cooldown",
-      "text": "When the $(l:creatures/human-player)$(thing)Player$() attacks too quickly, it reduces the strength of the attacks. $(br2)The base damage done (as a fraction of the full possible damage) depends on the time between attacks, which is also reflected in the height of the held $(item)Weapon$() on screen and the attack indicator bar"
+      "text": "When the $(l:creatures/human-player)$(thing)Player$() attacks too quickly, it reduces the strength of the attacks. $(br2)The base damage done (as a fraction of the full possible damage) depends on the time between attacks, which is also reflected in the height of the held $(item)Weapon$() on screen and the attack indicator bar."
     },
     {
       "type": "patchouli:text",
