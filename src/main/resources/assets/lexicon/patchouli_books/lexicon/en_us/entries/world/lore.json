@@ -10,11 +10,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "To prevent them from overworking themselves as they so often did, prevent them wasting their dreams of life, the godly entities seen in the credits create $(thing)Phantoms$(); taking the souls of those who perished from exhaustion or overworking themselves constantly mining and building without rest. $(br2)The $(thing)Phantoms$() attack those who do not sleep enough for this reason, and its why they don't attack with any great power or hostile tactics. They aren't a punishment, just a warning."
+      "text": "To prevent them from overworking themselves as they so often did, prevent them wasting their dreams of life, the godly entities seen in the credits create $(thing)Phantoms$(); taking the souls of those who perished from exhaustion or overworking themselves constantly mining and building without rest. $(br2)The $(thing)Phantoms$() attack those who do not sleep enough for this reason, which is why they don't attack with any great power or hostile tactics. They aren't a punishment, just a warning."
     },
     {
       "type": "patchouli:text",
-      "text": "But the more they built, the more they desired to build more, to reshape the world, and being forced to rest didn't stop them devoting all their time spent awake to progress. $(br2)Eventually they discovered the methods of creating $(thing)Snow Golems$() and, more importantly by several orders of magnitude, the strong $(thing)Iron Golems$()."
+      "text": "But the more they built, the more they desired to build more, to reshape the world, and being forced to rest didn't stop them devoting all their waking time to progress. $(br2)Eventually they discovered the methods of creating $(thing)Snow Golems$() and, more importantly by several orders of magnitude, the strong $(thing)Iron Golems$()."
     },
     {
       "type": "patchouli:entity",
@@ -26,7 +26,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Why wander away and build new, greater structures when for once the towns they had could survive un-harassed by giant $(thing)Spiders$() and $(thing)Slimes$() and harmful members of the community? $(br2)They even thought to program it not to attack $(thing)Creepers$(), knowing that the explosion was too big a risk to the Golem's stability, and the village at large."
+      "text": "Why wander away and build new, greater structures? For once the towns they had could survive un-harassed by giant $(thing)Spiders$() and $(thing)Slimes$() and harmful members of the community. $(br2)They even thought to program it not to attack $(thing)Creepers$(), knowing that the explosion was too big a risk to the Golem's stability, and the village at large."
     },
     {
       "type": "patchouli:text",
@@ -45,27 +45,27 @@
     },
     {
       "type": "patchouli:text",
-      "title": "2. Division of society",
-      "text": "Meanwhile, the Builders become obsessed with the idea of creating life, an idea sparked by those first few experiments with golems. $(br2)And its here that another split occurs. $(br)The discover of magic in the form of $(item)Potions$() and enchanting leads those who did not approve of such arcane madness to leave the Builder community on moral/philosophical grounds. $(br2)After all, if the $(thing)Villagers$() had done it, why not them?"
+      "title": "2. Division of Society",
+      "text": "Meanwhile, the Builders become obsessed with the idea of creating life, an idea sparked by those first few experiments with golems. $(br2)And it's here that another split occurs. $(br)The discovery of magic in the form of $(item)Potions$() and enchanting leads those who did not approve of such arcane madness to leave the Builder community on moral/philosophical grounds. $(br2)After all, if the $(thing)Villagers$() had done it, why not them?"
     },
     {
       "type": "patchouli:text",
-      "text": "They vanish into the jungles, creating great pyramid temples designed not with magic, but science, creating a community that was probably the pinnacle of technological advancement; or at least they strove to be such. $(br2)The Builders, however, delighted with the discover of magic, continue to progress, and eventually they discover the power of teleportation by way of $(item)Ender Pearls$(). $(br2)$(item)Ender Pearls$() do not come as a body part of $(thing)Endermen$(), and they aren't literal eyes; they're a device."
+      "text": "They vanish into the jungles, creating great pyramid temples designed not with magic, but science, creating a community that was probably the pinnacle of technological advancement; or at least they strove to be such. $(br2)The Builders, however, delighted with the discovery of magic, continue to progress, and eventually they discover the power of teleportation by way of $(item)Ender Pearls$(). $(br2)$(item)Ender Pearls$() do not come as a body part of $(thing)Endermen$(), and they aren't literal eyes; they're a device."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:ender_pearl",
       "title": " ",
-      "text": "Be it magical or high science they're a tool, one that $(thing)Silverfish$() likely became quite fond of infecting, drawn to the energy given off by its magic or power source. $(br2)And once teleportation was discovered, it wasn't long until portals, to, were discovered. $(br2)The discovery of the $(thing)Nether$() was yet another game changer."
+      "text": "Be it magical or high science, they're a tool, one that $(thing)Silverfish$() likely became quite fond of infecting, drawn to the energy given off by its magic or power source. $(br2)And once teleportation was discovered, it wasn't long until portals, too, were discovered. $(br2)The discovery of the $(thing)Nether$() was yet another game changer."
     },
     {
       "type": "patchouli:text",
       "title": "3. Nether Colonization",
-      "text": "Imagine the amounts of $(item)Gold$() and soon to be discovered $(item)Netherite$() they could haul out? And just think of the magic.. $(br2)And when the Builders entered the $(thing)Nether$(), they found it remarkably hot, hotter even then we know it today; with the only native inhabitants being the $(thing)Blaze$(); beings of magic and fire and essentially nothing else."
+      "text": "Imagine the amounts of $(item)Gold$() and soon-to-be discovered $(item)Netherite$() they could haul out. And just think of the magic.. $(br2)And when the Builders entered the $(thing)Nether$(), they found it remarkably hot, hotter even than we know it today, with the only native inhabitants being the $(thing)Blaze$(); beings of magic and fire and essentially nothing else."
     },
     {
       "type": "patchouli:text",
-      "text": "Between it and $(item)Glowstone$() there was more than enough magic to satiate the Builder's thirst for study. At least, for a time. $(br2)They built grand $(thing)Bastions$() to store wealth they mined from the ground, as well as $(thing)Strongholds$() to defend against, and later study & harvest $(thing)Blazes$(). $(br2)Along with them they bring $(thing)Pigs$() as a reliable food source as well as assistant with making the $(thing)Nether$() habitable."
+      "text": "Between the $(thing)Blaze$() and $(item)Glowstone$() there was more than enough magic to satiate the Builder's thirst for study. At least, for a time. $(br2)They built grand $(thing)Bastions$() to store wealth they mined from the ground, as well as $(thing)Strongholds$() to defend against, and later study & harvest $(thing)Blazes$(). $(br2)With them they bring $(thing)Pigs$() as a reliable food source as well as assistant with making the $(thing)Nether$() habitable."
     },
     {
       "type": "patchouli:image",
@@ -85,7 +85,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "Those in the second group were bred to be able to recognize $(item)Gold$(), and just like with humans, and likely the Builders, pattern recognition leads to intelligence, to increased ability to understand. $(br2)They became smarter and smarter, and in the absence of their masters, they become the $(thing)Piglins$(), human like hogs with culture, tools, and still instinctively draw to $(item)Gold$(), which has clearly affected their cultural development."
+      "text": "Those in the second group were bred to be able to recognize $(item)Gold$(), and just like with humans, and likely the Builders, pattern recognition leads to intelligence, to increased ability to understand. $(br2)They became smarter and smarter, and in the absence of their masters, they become the $(thing)Piglins$(), human-like hogs with culture, tools, and still instinctively drawn to $(item)Gold$(), which has clearly affected their cultural development."
     },
     {
       "type": "patchouli:entity",
@@ -108,29 +108,29 @@
       "entity": "minecraft:wither_skeleton",
       "scale": "1.0",
       "rotate": false,
-      "name": "4. Bad things happened",
+      "name": "4. Bad Things Happened",
       "text": "And horrifying as this is, some became intrigued."
     },
     {
       "type": "patchouli:text",
-      "text": "Most dead are thrown now into $(item)Lava$() to prevent them rising, hence why $(thing)Fortresses$() have Lava Well rooms. Others, though, are buried so that the $(thing)Skeletons$() and the $(item)Soul Sand$() and $(item)Soul Soil$() they gave rise to could be studied. $(br2)And it only went deeper the longer they worked, they became obsessed with bringing life, with restoring their dead friends to the world of the living,"
+      "text": "Most dead are thrown now into $(item)Lava$() to prevent them rising, hence why $(thing)Fortresses$() have Lava Well rooms. Others, though, are buried so that the $(thing)Skeletons$() and the $(item)Soul Sand$() and $(item)Soul Soil$() they gave rise to could be studied. $(br2)And it only went deeper the longer they worked. They became obsessed with bringing life, with restoring their dead friends to the world of the living,"
     },
     {
       "type": "patchouli:text",
-      "text": "and every failed attempt left them more frustrated and desperate, more willing to commit more horrific acts. $(br2)The discovery of a strain of mushroom capable of drawing energy from souls-the ancestor to the modern $(item)Netherwart$()-only strengthens this belief. $(br2)Soon the Builders, or at least those of the $(thing)Nether$(), fall into twisted habits. And those who objected..."
+      "text": "and every failed attempt left them more frustrated and desperate, more willing to commit more horrific acts. $(br2)The discovery of a strain of mushroom capable of drawing energy from souls-the ancestor to the modern $(item)Netherwart$()-only strengthens this belief. $(br2)Soon, the Builders, or at least those of the $(thing)Nether$(), fall into twisted habits. And those who objected..."
     },
     {
       "type": "patchouli:text",
-      "text": "well, free material for the next experiment. $(br2)The $(thing)Ghast$() are the result of Builders punishing other Builders for treason, experimenting on their bodies. $(br2)That is why they cry, why they drop $(item)Ghast Tears$(), it's why they aren't immune to fire. $(br2)While its more in line with the course of events and overall on brand for it to be the work of magic, its also possible that its done with some kind of technology."
+      "text": "well, free material for the next experiment. $(br2)The $(thing)Ghast$() are the result of Builders punishing other Builders for treason, experimenting on their bodies. $(br2)That is why they cry, why they drop $(item)Ghast Tears$(), it's why they aren't immune to fire. $(br2)While it's more in line with the course of events and overall on brand for it to be the work of magic, it's also possible that its done with some kind of technology."
     },
     {
       "type": "patchouli:text",
-      "title": "5. The escape",
+      "title": "5. The Escape",
       "text": "Others, though, escape the $(thing)Nether$(), destroying their portals and sailing away to far off islands. $(br2)Fearing that they would have the same fate as the $(thing)Ghast$(), they arm their ships with cannons. $(br2)But knowing that it wouldn't be enough, they put Builder ingenuity to good use and create an automaton of their own:"
     },
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Guardians$() and the $(thing)Elder Guardians$() with eye beams to kill incoming threats and otherwise unauthorized entites just in case; after all, who knows what twisted forms might be sent at them. $(br2)Combining organic fish matter with $(item)Prismarine$() and some advanced science, they created aquatic android defenders that can spot you even if you're invisible; "
+      "text": "The $(thing)Guardians$() and the $(thing)Elder Guardians$() with eye beams to kill incoming threats and otherwise unauthorized entites just in case; after all, who knows what twisted forms might be sent at them? $(br2)Combining organic fish matter with $(item)Prismarine$() and some advanced science, they created aquatic android defenders that can spot you even if you're invisible; "
     },
     {
       "type": "patchouli:spotlight",
@@ -140,12 +140,12 @@
     },
     {
       "type": "patchouli:text",
-      "text": "But its the $(thing)Elder Guardian$() that really gives the game away. $(br2)These mobs inflict you with $(thing)Mining Fatigue$(); a power that can only possibly have been needed for one purpose: To hinder other Builders. $(br2)Deeply religious after their harrowing experience in the $(thing)Nether$(), this island society builds ziggurates for worship and to avoid the tide, praying at the Kaaba like structure within, using $(item)Fishing Rods$() and $(item)Tridents$() to fish for food."
+      "text": "But it's the $(thing)Elder Guardian$() that really gives the game away. $(br2)These mobs inflict you with $(thing)Mining Fatigue$(); a power that can only possibly have been needed for one purpose: To hinder other Builders. $(br2)Deeply religious after their harrowing experience in the $(thing)Nether$(), this island society builds ziggurats for worship and to avoid the tide, praying at the Kaaba-like structure within, using $(item)Fishing Rods$() and $(item)Tridents$() to fish for food."
     },
     {
       "type": "patchouli:text",
       "title": "6. Beginning of the End",
-      "text": "Meanwhile back with the Builders, the experimentation on life and death reaches its fever pitch, and the $(thing)Wither$() is created accidentally. $(br2)The damage it deals is not only in raw destruction that levels structures with ease, but the $(thing)Curse of Withering$() it's distributed is like you're gonna burn inside to death."
+      "text": "Meanwhile, back with the Builders, the experimentation on life and death reaches its fever pitch, and the $(thing)Wither$() is created accidentally. $(br2)The damage it deals is not only in raw destruction that levels structures with ease, but the $(thing)Curse of Withering$() it's distributed is like you're going to burn to death from the inside."
     },
     {
       "type": "patchouli:entity",
@@ -156,11 +156,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "The $(thing)Curse of Withering$() functions somewhat similar to a disease, spreading to do victims and warping their body, creating both $(thing)Zombies$() and $(thing)Skeletons$(). $(br2)But, being magical in nature, the $(thing)Curse of Withering$() functions not just in physical means but in metaphorical ones. $(br2)The curse is not just an event but a punishment."
+      "text": "The $(thing)Curse of Withering$() functions somewhat similar to a disease, spreading to victims and warping their body, creating both $(thing)Zombies$() and $(thing)Skeletons$(). $(br2)But, being magical in nature, the $(thing)Curse of Withering$() functions not just in physical means but in metaphorical ones. $(br2)The curse is not just an event but a punishment."
     },
     {
       "type": "patchouli:text",
-      "text": "This event results in one last split of society, with a group who rightly took the event as the religious experience it was as a sign. $(br2)They leave into the $(thing)desert$(), where the harsh sun will protect them from the undead, worshipping felines for scaring away $(thing)Creepers$(), the only real threat to worry about save for the occasional $(thing)Spider$() having gone far afield."
+      "text": "This event results in one last split of society, with a group who rightly took the event as the religious experience it was, a sign. $(br2)They leave into the $(thing)desert$(), where the harsh sun will protect them from the undead, worshipping felines for scaring away $(thing)Creepers$(), the only real threat to worry about save for the occasional $(thing)Spider$() having gone far afield."
     },
     {
       "type": "patchouli:text",
@@ -168,7 +168,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "They were also a wealthy sort, with $(item)Gold$() and $(item)Emeralds$() being common hear, with $(item)TNT$() traps to protect the grave, once again showing that they were fearing Builders specifically, not just grave robbers. $(br2)And for quite a long time, they.. if not thrived, survived. The royals hoarded their wealth and their food, resulting in lower class suffering from constant starvation. $(br2)This lead them to wander even farther and farther out away from the kingdom in search of food."
+      "text": "They were also a wealthy sort, with $(item)Gold$() and $(item)Emeralds$() being common here, with $(item)TNT$() traps to protect the grave, once again showing that they were fearing Builders specifically, not just grave robbers. $(br2)And for quite a long time, they.. if not thrived, survived. The royals hoarded their wealth and their food, resulting in lower class suffering from constant starvation. $(br2)This lead them to wander even farther and farther out away from the kingdom in search of food."
     },
     {
       "type": "patchouli:text",
@@ -184,11 +184,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "They became *husks* of themselves, and in death, continued to hunt and feed, the curse granting them the power to inflict the hunger that drove them to madness onto those they attack. $(br2)The hubris of the royals and the curse of the $(thing)Wither$() brought the desert kingdom that seemed so safe to its knees."
+      "text": "They became *husks* of themselves, and in death, continued to hunt and feed, the curse granting them the power to inflict the hunger that drove them to madness upon those they attack. $(br2)The hubris of the royals and the curse of the $(thing)Wither$() brought the desert kingdom that seemed so safe to its knees."
     },
     {
       "type": "patchouli:text",
-      "title": "7. Protection at all costs",
+      "title": "7. Protection at All Costs",
       "text": "At the same time, the rising $(item)Water$() levels only continued to rise. $(br2)The $(thing)Nether$() was cooling because of magic and thus heat being imported to the $(thing)Overworld$(), and the result of that is the Overworld getting hotter. $(br2)Frozen land melts into more ocean, and the Island Builders begin searching for the $(item)Heart of the Sea$() while those back on the islands collect $(item)Nautilus Shells$() so that when someone returns with the Heart,"
     },
     {
@@ -199,11 +199,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "They choke on the rising water, and because of the $(thing)Wither's$() curse, they become the $(thing)Drowned$(). $(br2)Back on land the jungle kingdom stood no chance against the $(thing)Wither$(), too packed together in the dense jungle allowing the curse to spread like wildlife, with too much shade from trees to effectively defend against the undead and too little space in between trees for them to fight with golems."
+      "text": "They choke on the rising water, and because of the $(thing)Wither's$() curse, they become the $(thing)Drowned$(). $(br2)Back on land the jungle kingdom stood no chance against the $(thing)Wither$(), too packed together in the dense jungle allowing the curse to spread like wildfire, with too much shade from trees to effectively defend against the undead and too little space in between trees for them to fight with golems."
     },
     {
       "type": "patchouli:text",
-      "text": "And those with no kingdom, those lost on their own, left out in the cold, become the $(thing)Strays$(), granted now the power to inflict the biting cold that robbed them of life on others. $(br2)It's slowness $(item)Arrow$() is meant to represent ice forming on the player's body, freezing them and thus slowing them down."
+      "text": "And those with no kingdom, those lost on their own, left out in the cold, become the $(thing)Strays$(), now granted the power to inflict the biting cold that robbed them of life on others. $(br2)Its slowness $(item)Arrow$() is meant to represent ice forming on the player's body, freezing them and thus slowing them down."
     },
     {
       "type": "patchouli:text",
@@ -211,8 +211,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "8. More experiments",
-      "text": "The horrific experiments of the Builders had lead to bad blood increasing more and more, with the $(thing)Wither$() incident resulting in the $(thing)Villagers$() rejecting not just advancement, but demonizing experimentation altogether. $(br2)They would survive off local trades and nothing more, food from bakers and butchers, materials from blacksmith, knowledge from librarians and cartographers, and healing from clerics."
+      "title": "8. More Experiments",
+      "text": "The horrific experiments of the Builders had led to bad blood increasing more and more, with the $(thing)Wither$() incident resulting in the $(thing)Villagers$() rejecting not just advancement, but demonizing experimentation altogether. $(br2)They would survive off local trades and nothing more, food from bakers and butchers, materials from blacksmith, knowledge from librarians and cartographers, and healing from clerics."
     },
     {
       "type": "patchouli:text",
@@ -240,7 +240,7 @@
     },
     {
       "type": "patchouli:text",
-      "title": "9. Worse and worse..",
+      "title": "9. Worse and Worse..",
       "text": "The remaining members of the Builder community migrate underground into deep caves and tunnels to hide from horrors up above, creating large cities in the $(thing)Deep Dark$() where they conducted further experiments with redstone and magic."
     },
     {
