@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "> $(n)Health:$() 3     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive      $(br)> $(n)Spawn:$() Warm Oceans, Lush Caves, Mangrove Swamp $(br)> $(n)Properties:$() $(br)Can be caught with a $(item)Bucket$(). There are 2.700 naturally occurring variants."
+      "text": "> $(n)Health:$() 3     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive      $(br)> $(n)Spawn:$() Warm Oceans, Lush Caves, Mangrove Swamp $(br)> $(n)Properties:$() $(br)Can be caught with a $(item)Bucket$(). There are 2,700 naturally occurring variants."
     },
     {
       "type": "patchouli:entity",
