@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "> $(n)Health:$() 32     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive     $(br)> $(n)Spawn:$() Desert Village $(br)> $(n)Breeding:$() Cactus     $(br)> $(n)Properties:$() $(br)Can be equipped with a $(item)Saddle$() and they can be ridden in water up to 3 blocks deep with up to two $(l:creatures/human-player)$(thing)Players$(). $(thing)Camels$() are tall enough that most melee hostile cannot reach the players to attack them. They have the ability of 'dashing'. When dashing, the $(thing)Camel$() launches up to 12 blocks forward and one block upward."
+      "text": "> $(n)Health:$() 32     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive     $(br)> $(n)Spawn:$() Desert Village $(br)> $(n)Breeding:$() Cactus     $(br)> $(n)Properties:$() $(br)Can be equipped with a $(item)Saddle$() and ridden by up to two $(l:creatures/human-player)$(thing)Players$() on land or in water up to 3 blocks deep. $(thing)Camels$() are tall enough that most melee hostile mobs cannot reach the players to attack them. They have the ability of 'dashing'. When dashing, the $(thing)Camel$() launches up to 12 blocks forward and one block upward."
     },
     {
       "type": "patchouli:entity",
