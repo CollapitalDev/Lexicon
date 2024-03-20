@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(item)Ores$() generate at different heights with different probability. $(br2)Some are even less likely to generate in caves (Air exposured)."
+      "text": "$(item)Ores$() generate at different heights with different probabilities. $(br2)Some are even less likely to generate in caves (Air exposured)."
     },
     {
       "type": "patchouli:text",
