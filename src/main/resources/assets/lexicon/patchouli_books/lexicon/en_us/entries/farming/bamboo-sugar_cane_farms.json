@@ -21,7 +21,7 @@
     {
       "type": "patchouli:text",
       "title": "Bigger Auto Bamboo Farm",
-      "text": "Here, instead of $(item)Water$(), a $(item)Hopper Minecart$() is used to collect the items, it is more efficient and usually makes more sense on larger farms."
+      "text": "Here, instead of $(item)Water$(), a $(item)Hopper Minecart$() is used to collect the items. It is more efficient and usually makes more sense on larger farms."
     },
     {
       "type": "patchouli:image",
