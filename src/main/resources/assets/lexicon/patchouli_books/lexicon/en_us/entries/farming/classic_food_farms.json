@@ -14,7 +14,7 @@
         "lexicon:textures/pictures/food_farm.png"
       ],
       "border": true,
-      "text": "The first farm you should always be a simple, classic $(item)Wheat$() or $(item)Vegetable$() farm."
+      "text": "Your first farm should always be a simple, classic $(item)Wheat$() or $(item)Vegetable$() farm."
     }
   ]
 }
