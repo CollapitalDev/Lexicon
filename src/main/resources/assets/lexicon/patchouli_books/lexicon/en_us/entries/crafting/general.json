@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Crafting is the process of constructing tools, items, and blocks. $(br2)$(l:creatures/human-player)$(thing)Players$() can craft by moving items from their inventory to a crafting grid, arranging them according to a recipe. $(br2)A 2×2 crafting grid can be accessed from the inventory and a 3×3 grid can be accessed by using a $(l:useables/crafting_table)$(item)Crafting Table$()."
+      "text": "Crafting is the process of constructing tools, items, and blocks. $(br2)$(l:creatures/human-player)$(thing)Players$() can craft by moving items from their inventory to a crafting grid and arranging them according to a recipe. $(br2)A 2×2 crafting grid can be accessed from the inventory and a 3×3 grid can be accessed by using a $(l:useables/crafting_table)$(item)Crafting Table$()."
     },
     {
       "type": "patchouli:crafting",
