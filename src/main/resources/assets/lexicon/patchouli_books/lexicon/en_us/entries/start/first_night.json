@@ -1,12 +1,12 @@
 {
-  "name": "The first night.",
+  "name": "The first night",
   "icon": "minecraft:zombie_head",
   "category": "lexicon:start",
   "sortnum": 2,
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The first night is very dangerous if you are not prepared for it. $(br2)I recommend building you into a mountain at dusk and looking for $(item)Ores$() in the meantime. $(br2)Use the $(item)Coal$() you find to smelt food and ores and make $(item)Torches$(). $(br)And $(item)Iron Ingots$() to craft higher quality $(item)Tools$() and $(item)Armor$() for you."
+      "text": "The first night is very dangerous if you are not prepared for it. $(br2)I recommend building yourself into a mountain at dusk and looking for $(item)Ores$() in the meantime. $(br2)Use the $(item)Coal$() you find to smelt food and ores and make $(item)Torches$() and $(item)Iron Ingots$() to craft higher quality $(item)Tools$() and $(item)Armor$()."
     },
     {
       "type": "patchouli:crafting",
