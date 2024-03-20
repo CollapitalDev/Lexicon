@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:chest",
-      "text": "A $(item)Chest$() is a block that stores items. $(br2)You can place to of them next to each other to create a large $(item)Chest$()."
+      "text": "A $(item)Chest$() is a block that stores items. $(br2)You can place two of them next to each other to create a large $(item)Chest$()."
     },
     {
       "type": "patchouli:crafting",
