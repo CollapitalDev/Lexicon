@@ -44,7 +44,7 @@
         }
       },
       "name": "Herobrine Shrine",
-      "text": "Legends say, that this shrine calls $(thing)Herobrine$()."
+      "text": "According to the legend, this shrine is used to summon $(thing)Herobrine$()."
     }
   ]
 }
