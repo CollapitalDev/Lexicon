@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "There are various techniques how $(item)Ores$() can be extracted from the ground, these are described on the following pages."
+      "text": "There are various techniques of mining $(item)Ores$(). These techniques are described on the following pages."
     },
     {
       "type": "patchouli:image",
@@ -24,7 +24,7 @@
       ],
       "border": true,
       "title": "Strip Mining",
-      "text": "Strip mining is the most efficient way to farm ores, many small corridors are created next to each other in order to be able to cover the entire area."
+      "text": "Strip mining is the most efficient way to farm ores. Many small corridors are created next to each other in order to be able to cover the entire area."
     },
     {
       "type": "patchouli:image",
@@ -42,7 +42,7 @@
       ],
       "border": true,
       "title": "Shaft Mining",
-      "text": "Is used to create a shaft to a certain height, ores from different levels are be covered."
+      "text": "Is used to create a shaft to a certain height. Ores from different levels are be covered."
     },
     {
       "type": "patchouli:image",
