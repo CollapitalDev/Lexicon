@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "> $(n)Health:$() 8     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive     $(br)> $(n)Spawn:$() Overworld on Grass $(br)> $(n)Breeding:$() Wheat     $(br)> $(n)Properties:$() $(br)Sheeps$() can be dyed and sheared."
+      "text": "> $(n)Health:$() 8     $(br)> $(n)Attack Damage:$() 0    $(br)> $(n)Behavior:$() Passive     $(br)> $(n)Spawn:$() Overworld on Grass $(br)> $(n)Breeding:$() Wheat     $(br)> $(n)Properties:$() $(br)Sheep$() can be dyed and sheared."
     },
     {
       "type": "patchouli:entity",
