@@ -245,11 +245,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "But one day, someone was out, when suddenly they see a $(thing)Wither$(), he fled back towards the underground city, but the $(thing)Wither$() followed him to the city gates. $(br2)The army mobilizes, ready to fight, but many warriors died. $(br2)As a last resort, they tried to activate the large portal in the city center. $(br2)And they succeeded!"
+      "text": "But one day, someone was out, when suddenly they see a $(thing)Wither$(). They fled back towards the underground city, but the $(thing)Wither$() followed them to the city gates. $(br2)The army mobilizes, ready to fight, but many warriors died. $(br2)As a last resort, they tried to activate the large portal in the city center. $(br2)And they succeeded!"
     },
     {
       "type": "patchouli:text",
-      "text": "They hope to find a new dimension they can escape. $(br2)However, what happens is not what they expect. $(br2)A huge monster, known today as the $(thing)Warden$(), comes OUT from the lit portal and has a devastating battle with the $(thing)Wither$(). $(br2)In the end, the strange monster wins. $(br2)It's not the solution the Builders were hoping, but it works."
+      "text": "They hope to find a new dimension they can escape to. $(br2)However, what happens is not what they expect. $(br2)A huge monster, known today as the $(thing)Warden$(), comes OUT from the lit portal and has a devastating battle with the $(thing)Wither$(). $(br2)In the end, the strange monster wins. $(br2)It's not the solution the Builders were hoping for, but it works."
     },
     {
       "type": "patchouli:entity",
@@ -257,13 +257,13 @@
       "scale": "1.0",
       "rotate": false,
       "name": " ",
-      "text": "After the fight, the $(thing)Warden$() buried himself underground. $(br2)Full of joy and humility they worshiped the new creature."
+      "text": "After the fight, the $(thing)Warden$() buried himself underground. $(br2)Full of joy and humility, they worshiped the new creature."
     },
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:sculk",
       "title": " ",
-      "text": "However, a mushroom-like life form, the $(item)Sculk$(), quickly spread from the portal. $(br2)The portal was closed again to prevent further spread. $(br2)But it was already too late. $(br2)Loud noises activated the $(item)Sculk$() and summoned one or more $(thing)Wardens$() that attacked the builders and made it impossible to live here any longer."
+      "text": "However, a mushroom-like life form, the $(item)Sculk$(), quickly spread from the portal. $(br2)The portal was closed again to prevent further spread. $(br2)But it was already too late. $(br2)Loud noises activated the $(item)Sculk$() and summoned one or more $(thing)Wardens$() that attacked the builders and made it impossible to live there any longer."
     },
     {
       "type": "patchouli:text",
@@ -272,16 +272,16 @@
 
     {
       "type": "patchouli:text",
-      "title": "10. The corruption",
-      "text": "A $(thing)Villager$() got lost one day, maybe even one of the newly rejected $(thing)Witches$(). $(br)They find themselves trapped in a cave, and in their attempts to escape, stumble upon the $(thing)Stronghold$(). $(br)The remaining Builders give the $(item)Orb of Dominance$() to them, telling them to simply follow its instructions and it's knowledge and power would let them fix the ruin that had been broken for so long. $(br)And with that, they left through the portal to $(thing)The End$()."
+      "title": "10. The Corruption",
+      "text": "A $(thing)Villager$() got lost one day, maybe even one of the newly rejected $(thing)Witches$(). $(br)They find themselves trapped in a cave, and in their attempts to escape, stumble upon the $(thing)Stronghold$(). $(br)The remaining Builders give the $(item)Orb of Dominance$() to them, telling them to simply follow its instructions and its knowledge and power would let them fix the ruin that had been broken for so long. $(br)And with that, they left through the portal to $(thing)The End$()."
     },
     {
       "type": "patchouli:text",
-      "text": "But the Builders are nothing if not a hubristic bunch, and that crystalizing them into a crystal of pure power with no physical form to allow them empathy would only amplify their worse tendencies, and proximity to a cast out $(thing)Villager$() might just amplify their own as well as they become corrupted by the magic of the Orb, their skin turning grey either from corruptive energy or from hours spent lacking sunlight, forced to continue experimented with life, death, and magic."
+      "text": "But the Builders are nothing if not a hubristic bunch, and that crystalizing them into a crystal of pure power with no physical form to allow them empathy would only amplify their worse tendencies, and proximity to a cast out $(thing)Villager$() might just amplify their own as well as they become corrupted by the magic of the Orb, their skin turning grey either from corruptive energy or from hours spent lacking sunlight, forced to continue experimenting with life, death, and magic."
     },
     {
       "type": "patchouli:text",
-      "text": "They give rise to $(thing)Ravagers$(), $(thing)Evokers$(), recruit more $(thing)Villagers$() to their ranks as $(thing)Pillagers$() with a magical aura that calls for back up in the form of Ill Omen, and from the $(thing)Zombie Villagers$() cured back into $(thing)Villagers$(), cast out from the Villages in fear, become the $(thing)Vindicators$(). $(br2)The magic even allows them to co-exist with monsters, hence not being attacked by the undead or other beasts."
+      "text": "They give rise to $(thing)Ravagers$(), $(thing)Evokers$(), recruit more $(thing)Villagers$() to their ranks as $(thing)Pillagers$() with a magical aura that calls for backup in the form of the Bad Omen, and from the $(thing)Zombie Villagers$() cured back into $(thing)Villagers$(), cast out from the Villages in fear, become the $(thing)Vindicators$(). $(br2)The magic even allows them to co-exist with monsters, hence not being attacked by the undead or other beasts."
     },
     {
       "type": "patchouli:spotlight",
@@ -291,7 +291,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "But regardless of which it two is was, the $(thing)Illagers$() were left with no more Orb. $(br2)The magic remained, but their experiments couldn't continue without the orb for a number of reasons, and with memories of where it came from, with depictions of the $(item)End Portal$(), they begin cargo culting in an attempt to summon more Builders for another Orb."
+      "text": "But regardless of which it was, the $(thing)Illagers$() were left with no more Orb. $(br2)The magic remained, but their experiments couldn't continue without the orb for a number of reasons, and with memories of where it came from, with depictions of the $(item)End Portal$(), they begin cargo culting in an attempt to summon more Builders for another Orb."
     },
     {
       "type": "patchouli:text",
@@ -309,11 +309,11 @@
     },
     {
       "type": "patchouli:text",
-      "text": "A dimension with flying clusters of islands, eternal darkness and a big Dragon. $(br2)In addition to the $(thing)End Cities$() created to store treasures, guarded by $(thing)Shulkers$(), a native species selectively bred to be guardians of the cities, there existed $(thing)End Ships$(), dragon slayers who sought to kill the beast, but fail."
+      "text": "A dimension with flying clusters of islands, eternal darkness and a big Dragon. $(br2)In addition to the $(thing)End Cities$() created to store treasures, guarded by $(thing)Shulkers$(), a native species selectively bred to be guardians of the cities, there existed $(thing)End Ships$(), dragon slayers who sought to kill the beast, but failed."
     },
     {
       "type": "patchouli:text",
-      "text": "With no way out back to the $(thing)Overworld$(), these Builders degraded, intelligence fading as the curse ate away at their minds. $(br2)The $(item)Ender Pearl$() devices they kept on them became one with their bodies, allowing them to always have them on them, even creating them from the magic of the $(item)Chorus Fruit$() they eat instead of crafting them. $(br2)Leaving them subhuman in intelligence."
+      "text": "With no way back to the $(thing)Overworld$(), these Builders degraded, intelligence fading as the curse ate away at their minds. $(br2)The $(item)Ender Pearl$() devices they kept on them became one with their bodies, allowing them to always have one on them, even creating them from the magic of the $(item)Chorus Fruit$() they eat instead of crafting them. $(br2)Leaving them subhuman in intelligence."
     },
     {
       "type": "patchouli:text",
@@ -333,8 +333,8 @@
     },
     {
       "type": "patchouli:text",
-      "title": "12. Your role",
-      "text": "And now finally let's talk about who you are, you are one of the Builders, not just any one but $(n)the one$() who built the $(thing)Wither$() and started all the chaos. $(br2)That's why the $(thing)Endermen$() attack upon seeing our face, and why the $(thing)Piglins$() do the same, why the $(thing)Illagers$() fear you, why the $(thing)Iron Golem$() has no issue flattening you if you show hostility, and why the cosmic entities talk with such pride in all you've done when you $(l)Free the End$()."
+      "title": "12. Your Role",
+      "text": "And now finally let's talk about who you are. You are one of the Builders, not just any one but $(n)the one$() who built the $(thing)Wither$() and started all the chaos. $(br2)That's why the $(thing)Endermen$() attack upon seeing your face, and why the $(thing)Piglins$() do the same, why the $(thing)Illagers$() fear you, why the $(thing)Iron Golem$() has no issue flattening you if you show hostility, and why the cosmic entities talk with such pride in all you've done when you $(l)Free the End$()."
     },
     {
       "type": "patchouli:text",
@@ -343,7 +343,7 @@
     {
       "type": "patchouli:text",
       "title": "Final Words",
-      "text": "Its a story of hubris and greed, of talented people driven to atrocity by corrupt ambition, or an old, forgotten world with too much magic for its own good, and depending on your view point, its a story of redemption and righting the wrongs of the past."
+      "text": "It's a story of hubris and greed, of talented people driven to atrocity by corrupt ambition, or an old, forgotten world with too much magic for its own good, and depending on your view point, it's a story of redemption and righting the wrongs of the past."
     },
     {
       "type": "patchouli:text",
