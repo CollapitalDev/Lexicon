@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A logic gate can be thought of as a simple device that will return a number of outputs, determined by the pattern of inputs and rules that the logic gate follows. $(br2)These gates can be used to build large circuits for machines. $(br2)The $(l:redstone/redstone_components#lever)$(item)Lever$() in this circuits represent inputs and the $(l:redstone/redstone_components#lamp)$(item)Lamps$() the output."
+      "text": "A logic gate can be thought of as a simple device that will return a number of outputs, determined by the pattern of inputs and rules that the logic gate follows. $(br2)These gates can be used to build large circuits for machines. $(br2)The $(l:redstone/redstone_components#lever)$(item)Lever$() in these circuits represent inputs and the $(l:redstone/redstone_components#lamp)$(item)Lamps$() the output."
     },
     {
       "type": "patchouli:multiblock",
@@ -542,7 +542,7 @@
         }
       },
       "name": "RS-ISR Latch",
-      "text": "This is a $(thing)Input Stabilizator$() with reset option."
+      "text": "This is aN $(thing)Input Stabilizator$() with reset option."
     },
 
 
