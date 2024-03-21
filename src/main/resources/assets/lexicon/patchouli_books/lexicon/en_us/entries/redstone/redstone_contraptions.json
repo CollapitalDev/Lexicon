@@ -268,7 +268,7 @@
         }
       },
       "name": "2-Way 2x2 Piston Door",
-      "text": "This is a relative simple 2x2 $(l:redstone/redstone_components#piston)$(item)Piston$() door that works from 2 sides."
+      "text": "This is a relatively simple 2x2 $(l:redstone/redstone_components#piston)$(item)Piston$() door that works from 2 sides."
     },
     {
       "type": "patchouli:multiblock",
@@ -436,7 +436,7 @@
         }
       },
       "name": "Self-closing Door",
-      "text": "This is a self-closing monster safe door."
+      "text": "This is a self-closing monster-safe door."
     },
     {
       "type": "patchouli:multiblock",
@@ -509,7 +509,7 @@
         }
       },
       "name": "Auto-Smelter",
-      "text": "this contraption automatically fills fuel and material into the $(l:useables/furnace)$(item)Furnace$() and melts it through automatically."
+      "text": "This contraption automatically fills fuel and material into the $(l:useables/furnace)$(item)Furnace$() and smelts it."
     },
     {
       "type": "patchouli:multiblock",
