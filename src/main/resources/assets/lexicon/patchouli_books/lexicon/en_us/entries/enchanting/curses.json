@@ -11,7 +11,7 @@
     {
       "type": "patchouli:text",
       "title": "Curse of Binding",
-      "text": "$(n)Effect:$() $(br)Items cannot be removed from armor slots.  $(br2)$(n)Primary Items:$() /  $(br2)$(n)Secondary Items:$() Equipment $(br2)$(n)Max Level:$() I "
+      "text": "$(n)Effect:$() $(br)Item cannot be removed from armor slots.  $(br2)$(n)Primary Items:$() /  $(br2)$(n)Secondary Items:$() Equipment $(br2)$(n)Max Level:$() I "
     },
     {
       "type": "patchouli:text",
