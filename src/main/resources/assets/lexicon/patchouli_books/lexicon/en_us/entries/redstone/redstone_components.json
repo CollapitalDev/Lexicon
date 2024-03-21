@@ -45,7 +45,7 @@
       "type": "patchouli:crafting",
       "recipe": "minecraft:repeater",
       "title": " ",
-      "text": "$(li)$(item)Repeater$() delay signals, the delay can be changed by right clicking $(li)Repeater can be locked by another powered $(item)Repeater$() or $(item)Comparator$() facing it's side. When locked, the repeater does not change its output"
+      "text": "$(li)$(item)Repeater$() delay signals, the delay can be changed by right clicking $(li)A repeater can be locked by another powered $(item)Repeater$() or $(item)Comparator$() facing it's side. When locked, the repeater does not change its output"
     },
     {
       "type": "patchouli:spotlight",
@@ -57,7 +57,7 @@
       "type": "patchouli:crafting",
       "recipe": "minecraft:comparator",
       "title": " ",
-      "text": "$(li)Can take a signal strength input from its rear as well as from both sides. $(br)$(li)Side inputs are accepted only from $(item)Redstone Dust$(), $(item)Redstone Block$(), $(item)Repeaters$(), other $(item)Comparators$(), & $(item)Observers$() in specific scenarios. $(br)The front is the output."
+      "text": "$(li)It can take a signal strength input from its rear as well as from both sides. $(br)$(li)Side inputs are accepted only from $(item)Redstone Dust$(), $(item)Redstone Block$(), $(item)Repeaters$(), other $(item)Comparators$(), & $(item)Observers$() in specific scenarios. $(br)The front is the output."
     },
     {
       "type": "patchouli:spotlight",
@@ -98,7 +98,7 @@
       "type": "patchouli:spotlight",
       "item": "minecraft:tripwire_hook",
       "anchor": "tripwire",
-      "text": "A $(item)Tripwire Hook$() can be used to detect $(l:creatures)$(thing)Mobs$(), $(thing)Items$(), and other $(thing)Entities$() over a large area. $(br2)To use it you have to place 2 hooks opposite each other on walls and connect them with $(item)Strings$(), now when an entity touches the thread the hooks emit a signal."
+      "text": "A $(item)Tripwire Hook$() can be used to detect $(l:creatures)$(thing)Mobs$(), $(thing)Items$(), and other $(thing)Entities$() over a large area. $(br2)To use it you have to place 2 hooks opposite each other on walls and connect them with $(item)Strings$(). Then, when an entity touches the thread, the hooks emit a signal."
     },
     {
       "type": "patchouli:crafting",
@@ -109,7 +109,7 @@
       "type": "patchouli:spotlight",
       "item": "minecraft:observer",
       "anchor": "observer",
-      "text": "A $(item)Observer$() detects changes in its target's block states, or the breaking or placing of a block (i.e. changes in its block state). $(br2)This means that changes like the age of $(item)Crops$() can be detected because they are part of the block states."
+      "text": "An $(item)Observer$() detects changes in its target's block states, or the breaking or placing of a block (i.e. changes in its block state). $(br2)This means that changes like the age of $(item)Crops$() can be detected because they are part of the block states."
     },
     {
       "type": "patchouli:crafting",
@@ -142,7 +142,7 @@
       "type": "patchouli:spotlight",
       "item": "minecraft:dispenser",
       "anchor": "dispenser",
-      "text": "A $(item)Dispenser$() is a block used as a redstone component to dispense items. $(br2)Most items are just thrown out, but a few behave differently (eg. $(item)Armor$() equips on a $(l:creatures/human-player)$(thing)Player$() of $(l:creatures)$(thing)Mob$(), projectiles are fired out, $(item)Buckets$() or some tools are used, ...)"
+      "text": "A $(item)Dispenser$() is a block used as a redstone component to dispense items. $(br2)Most items are just thrown out, but a few behave differently (eg. $(item)Armor$() equips on a $(l:creatures/human-player)$(thing)Player$() or $(l:creatures)$(thing)Mob$(), projectiles are fired out, $(item)Buckets$() or some tools are used, ...)"
     },
     {
       "type": "patchouli:crafting",
@@ -263,7 +263,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "minecraft:calibrated_sculk_sensor",
-      "text": "Similarly to its counterpart it detects vibrations, but with twice the range, and can detect multiple vibrations in quicker succession. $(br2)It outputs a signal on all sides except for its input, which can receive power to make the sensor only listen to specific vibrations, depending on the input signal strength."
+      "text": "Similarly to its counterpart, it detects vibrations, but with twice the range, and can detect multiple vibrations in quicker succession. $(br2)It outputs a signal on all sides except for its input, which can receive power to make the sensor only listen to specific vibrations, depending on the input signal strength."
     },
     {
       "type": "patchouli:crafting",
